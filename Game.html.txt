@@ -2,7 +2,7 @@
 <html lang="mn">
 <head>
 <meta charset="UTF-8">
-<title>Love Game NEXT LEVEL 💖</title>
+<title>Love Game NEXT LEVEL </title>
 
 <style>
 body {
